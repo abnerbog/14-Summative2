@@ -1,7 +1,26 @@
 ---
-title: "14-Summative-2"
-output: html_document
+title: "Chapter 14: Summative-2"
+date: today
+github: https://github.com/VT-Hydroinformatics/14-Summative2
+author:
+  - name: JP Gannon
+    orcid: 0000-0002-4595-3214
+    github: jpgannon
+    url: https://jpgannon.github.io/
+    affiliation: 
+      - name: Virginia Tech
+        url: https://www.vt.edu/
+format:
+  html: 
+    self-contained: true
+  ipynb:
+      nb-frontmatter: true
+jupyter: 
+  kernel: ir
+execute: 
+  enabled: true
 ---
+
 Given: you will use the following packages.
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
