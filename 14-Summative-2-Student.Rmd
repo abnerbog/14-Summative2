@@ -1,5 +1,5 @@
 ---
-title: "Chapter 14: Summative-2"
+title: "Chapter 14: Summative 2"
 date: today
 github: https://github.com/VT-Hydroinformatics/14-Summative2
 author:
