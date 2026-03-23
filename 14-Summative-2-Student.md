@@ -1,6 +1,11 @@
-# Chapter 14: Summative 2
-JP Gannon
-2026-02-12
+---
+title: 'Chapter 14: Summative 2'
+date: 2026-03-23T00:00:00.000Z
+authors:
+  - id: jpgannon
+github: https://github.com/VT-Hydroinformatics/14-Summative2
+---
+
 
 Given: you will use the following packages.
 
