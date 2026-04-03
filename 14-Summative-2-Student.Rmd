@@ -3,7 +3,27 @@ title: "Chapter 14: Summative 2"
 date: 2026-03-23
 authors:
   - id: jpgannon
+    name: JP Gannon
+    email: jpgannon@vt.edu
+    github: jpgannon
+    orcid: 0000-0002-4595-3214
+    corresponding: true
+    url: https://jpgannon.github.io/
+    affiliations:
+      - vt-tech
+affiliations:
+  - id: vt-tech
+    name: Virginia Tech
+    url: https://www.vt.edu/
+subject: Courseware
+doi: https://doi.org/10.4211/hs.a17e251704cd4a33aec05543f945311a
+venue:
+  title: View Resource on HydroShare
+  url: https://hydroshare.org/resource/a17e251704cd4a33aec05543f945311a/
 github: https://github.com/VT-Hydroinformatics/14-Summative2
+downloads:
+  - file: 14-Summative-2-Student.md
+  - file: 14-Summative-2-Student.pdf
 ---
 
 Given: you will use the following packages.
